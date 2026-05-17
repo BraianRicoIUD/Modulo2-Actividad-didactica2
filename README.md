@@ -8,11 +8,9 @@ El proyecto analiza la evolución estocástica a corto plazo (30 días) y evalú
 
 ## 🚀 Ejecutar en la Nube (Google Colab)
 
-No necesitas clonar el repositorio ni configurar un entorno virtual en local. Puedes ejecutar e interactuar con la simulación completa haciendo clic en el siguiente botón:
+Puedes interactuar con la simulación completa y ejecutar el código con un solo clic directamente desde tu navegador:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO_DE_GITHUB/TU_NOMBRE_DE_REPOSITORIO/blob/main/actividad_didactica_2_hmm.ipynb)
-
-*(Nota: Asegúrate de reemplazar `TU_USUARIO_DE_GITHUB` y `TU_NOMBRE_DE_REPOSITORIO` en el enlace de arriba por tus datos reales de GitHub para que el botón funcione correctamente).*
+👉 **[Abrir Simulación en Google Colab](https://colab.research.google.com/drive/1SRsu_uMXv-D0z6sikCXuZMA1m--8Kan-#scrollTo=NZ9qhK1uSSIv)**
 
 ---
 
